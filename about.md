@@ -5,8 +5,6 @@ permalink: /about/
 tags: about
 ---
 
-I am a Software Engineering student at [RMIT University](https://www.rmit.edu.au/) in Melbourne. Starting November 2016 I will be interning with [Zendesk](https://www.zendesk.com/) in a Data Engineering role.
+Namita Gupta is a writer/artist based in Mumbai, India. In 2018, she graduated from Goldsmiths College, University of London with an M.A. in Media and communications. She has also studied Indian Aesthetics at Jnanapravaha, Mumbai; mass communication from IIMC, Delhi, and business studies from University of Delhi. 
 
-I'm currently doing a lot of work building developer communities around my University. I'll chase any opportunity to improve collaboration and outreach in the tech. industry.
-
-My main areas of interest are in NLP, Agent-Oriented Programming, and Computational Dialectics.
+Her interests range from arts, philosophy, culture, music, design, mathematics, science, religion and digital technology.
