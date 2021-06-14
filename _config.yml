@@ -1,10 +1,10 @@
 # Site settings
 title:       Namita Gupta
-email:       jonathon.bel.melbourne@gmail.com
-author:      Jonathon Belotti
-description: "A striking black-white Jekyll theme."
+email:       namitagupta.red@gmail.com
+author:      Namita Gupta
+description: "Portfolio-Namita Gupta"
 baseurl:     "https://namita-gupta.github.io/"
-url:         "https://thundergolfer.github.io/junior-theme"
+url:         "https://namita-gupta.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -17,7 +17,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             True
 show_related_posts:   false
 show_post_footers:    True
 show_social_icons:    True
@@ -37,23 +37,23 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username: thundergolfer
+github_username: namita-gupta
 bitbucket_username:
 stackoverflow_id:
-twitter_username: jonobelotti_io
+twitter_username: greyflak
 skype_username:
 steam_nickname:
-google_plus_id:
-linkedin_username: jonathonbelotti
+google_plus_id: namitagupta.red@gmail.com
+linkedin_username: namita-gupta-
 angellist_username:
-medium_id: thundergolfer
-youtube_channel_id: UCSP7fMKwmaXaZhViAV2Vgvg
+medium_id: greyflak
+youtube_channel_id: 
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: False # Looks Ugly atm
+show_sharing_icons: True # Looks Ugly atm
 # Change to 'true' to enable individual icons
 share_facebook: True
 share_twitter: True
