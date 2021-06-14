@@ -14,7 +14,7 @@ This is a short study of media’s role in creating national and gender identiti
 
 
 
-# Introduction
+## Introduction
 
 Rise of nationalism at the beginning of the 21st century may seem absurd and politically motivated when space-time compression (Harvey 1989) has allowed free flow of people, goods, ideas, and cultures to move across borders (Castells 2009). While this process has aimed for a utopian cosmopolitan project (Smith 1995), it is also interesting to note that the rise of nation states went hand in hand with transnational economic and cultural exchange, creating a contrast between the ideas of nationalism and globalization (Mann 1997). Access and use of media and communication technology affects how we experience events, create networks that help in creating new identities, providing us new ways of organizing and understanding ourselves. In such a scenario, even if nation states as building blocks are flourishing more than ever, conflicts of identities are coming more into attention – of self, nation, gender and culture, leading to mass civil unrests, protests, wars and clashes (Kaldor 2004, Mann 2005).
 
@@ -150,7 +150,7 @@ They rejected the nuclear familial order of Oedipal complex by saying that the f
 
  <br>
  
-# Methodology
+## Methodology
 
 Films as a medium of representation are inherently political because every representation is used from a myriad of possible representations depending upon the filmmaker’s interest. The point of view that we get can be entertaining fictions or reflections of reality or cultural artifacts. Since camera is associated with the act of looking, it does not exist without power dynamics (Mulvey 1989). Reading and understanding a film requires reflecting on politics of representation – of not only what is seen but also what is hidden or indirectly decoded in the text in the form of metaphor and other codes. While every reading is subjective and dependent on cultural understandings and subject position of the viewer, I will interpret the films as a female viewer and try to answer the questions I’ve posed for myself.
 There are various methods suggested by Arthur Asa Berger (2016) and Hansen, Cottle, Negrine, Newbold (1998) to analyze media and especially film – Semiotic analysis, Rhetorical Analysis, Ideological Criticism, Psychoanalytic Criticism, Discourse analysis. Because my aim is to extract and understand the meaning, myth and ideologies in these films, I will use theories and ideas I’ve explored in the literature review – of nation, nationalism, gender, film and psychoanalysis to analyze the narratives. This qualitative narrative analysis can be done in the following ways –
@@ -166,7 +166,7 @@ Narration and dramaturgy: In-depth analysis of ‘Roles’ and ‘Functions’ i
 
  <br>
 
-# Conclusion
+## Conclusion
 
 After reading a lot of books, papers, articles, journals and closely analyzing two major feature films to explore the questions I had posed for myself in the beginning, I’ve realized that my country “India” that I imagined as a piece of land with a particular shape on the political map of the world, is more than just that. It’s an idea that has been imagined so well by the people and the media, that it engages with a strong sense of belonging, culture or a way of living that when comes in conflict with other imaginary ideas of the nation, create violent events that are etched down in history.
 Exploring my own national identity after coming here, I’ve realized that nationality as an identity is not in my genes or my race or the color of my skin, but in the structure of the modern world – the experience of which so far has led me to search for some spiritual essence that connect me back to my nation. For me, it’s not the culture, but nature, climate and land that makes that connection. Therefore, according to me, political and cultural imaginations of the nation that are made using complex apparatus of metaphors, discourses and modes of address in the media (especially cinema) are all fictions, myths and ideologies propagated for power and control. With media as a platform for mythical representation, these wars between nation-states are now being played by politicians with the objective of selfish development and progress.
