@@ -9,45 +9,33 @@ permalink: /resume/
 <div id="webaddress">
 <a href="mailto:namitagupta.red@gmail.com">namitagupta.red@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/namitagupta">thundergolfer</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/greyflak">greyflak</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/greyflak">jonobelotti_IO</a>
+<i class="fa fa-medium"></i> <a href="https://greyflak.medium.com/">greyflak</a>
+
 </div>
 
-
-## Experience
-
-`2017-`
-__Data Engineering Intern, Zendesk__ Work alongside the data science team on the machine learning driven Automatic Answers and Satisfaction Prediction products.
-
-`2016`
-__Web Developer, RMIT Melbourne__ Integrated xAPI into existing RMIT web tools, and worked on changing student’s relationship with their learning data.
-
-`2016`
-__Research Assistant, RMIT Melbourne__ Used Machine Learning and NLP libraries to predict language acquisition in second language learners.
-
-__Tutor (Computer Science), Indigenous Tutorial Assistance Scheme__ Tutor students in algorithm design and analysis, database concepts, and software engineering fundamentals.
 
 ## Education
 
 `2018-2019`
-__Indian Aesthetics, Jnanapravaha, Mumbai
+__Indian Aesthetics, Jnanapravaha, Mumbai__
 
 Indian art history, architecture, literature, philosophy and cultural studies spanning over 5000 years
 
 `2016-2017`
-__M.A. Media and Communications, Goldsmiths College, University of London, UK_
+__M.A. Media and Communications, Goldsmiths College, University of London, UK__
 
 Dissertation Title: Whose nation is it anyway?: Exploration of gender and national identities in Indian cinema in the context of rising
 nationalism and globalisation
 
 `2012-2013`
-PG Diploma in Mass Communication
+__PG Diploma in Mass Communication__
 Indian Institute of Mass Communication, New Delhi, India
 
 
 `2009-2012`
-Bachelor in Business Studies
+__Bachelor in Business Studies__
 Shaheed Sukhdev College of Business Studies, University of Delhi, India
 
 
@@ -96,9 +84,9 @@ Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:jbelotti@zendesk.com">jbelotti@zendesk.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:namitagupta.red@gmail.com">namitagupta.red@gmail.com</a><br />
+* <i class="fa fa-medium"></i> <a href="http://medium.com/greyflak">greyflak</a><br />
+*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/greyflak">greyflak</a><br />
 
 <!-- ### Footer
 
