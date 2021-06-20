@@ -4,14 +4,14 @@ title: Resumé
 tags: resume
 permalink: /resume/
 ---
-# Jonathon Belotti
+# Namita Gupta
 
 <div id="webaddress">
-<a href="mailto:jonathon.bel.melbourne@gmail.com">jonathon.bel.melbourne@gmail.com</a>
+<a href="mailto:namitagupta.red@gmail.com">namitagupta.red@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a>
+<i class="fa fa-github"></i> <a href="http://github.com/namitagupta">thundergolfer</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/greyflak">jonobelotti_IO</a>
 </div>
 
 
@@ -30,27 +30,26 @@ __Tutor (Computer Science), Indigenous Tutorial Assistance Scheme__ Tutor studen
 
 ## Education
 
-`2015-`
-__Bachelor of Software Engineering, RMIT Melbourne__
+`2018-2019`
+__Indian Aesthetics, Jnanapravaha, Mumbai
 
-***GPA 3.9:***  100 - Web Programming, 97 - Soft. Eng. Fundamentals, 93 - Data Comm, 89 - Discrete Math
+Indian art history, architecture, literature, philosophy and cultural studies spanning over 5000 years
 
-`2011-13`
-__Bachelor of Environments (Architecture), University of Melbourne__
+`2016-2017`
+__M.A. Media and Communications, Goldsmiths College, University of London, UK_
 
-`2007-10`
-__Melbourne High School__ 95.80 / 100 ATAR
+Dissertation Title: Whose nation is it anyway?: Exploration of gender and national identities in Indian cinema in the context of rising
+nationalism and globalisation
 
-## University Leadership & Involvement
+`2012-2013`
+PG Diploma in Mass Communication
+Indian Institute of Mass Communication, New Delhi, India
 
-`2016-`
-__President, Computer Science & IT Society__ Rebranded the club, completed its website and have set up new student engagement initiatives.
 
-`2014-15`
-__Lead Investment & IT Officer, Foresight Investment__ With over $50,000 AUM the group generated annualised returns of greater than 11% while the ASX200 went down.
+`2009-2012`
+Bachelor in Business Studies
+Shaheed Sukhdev College of Business Studies, University of Delhi, India
 
-`2016-`
-__Founder & Vice President - RMIT Programming Club__ Setup club’s communication channels.branding, and website. Created leadership group and now run meetings biweekly
 
 ## Projects
 
