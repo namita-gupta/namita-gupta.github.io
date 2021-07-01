@@ -47,9 +47,9 @@ permalink: /resume/
 
 
 
-* <i class="fa fa-envelope"></i> <a href="mailto:namitagupta.red@gmail.com">namitagupta.red@gmail.com</a><br/>
-*  <i class="fa fa-medium"></i> <a href="http://medium.com/greyflak">greyflak</a><br/>
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/greyflak">greyflak</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:namitagupta.red@gmail.com"> namitagupta.red@gmail.com </a><br/>
+* <i class="fa fa-medium"></i> <a href="http://medium.com/greyflak">  greyflak</a><br/>
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/greyflak"> greyflak</a><br />
 
 <!-- ### Footer
 
