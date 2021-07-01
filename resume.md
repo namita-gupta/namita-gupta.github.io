@@ -18,14 +18,12 @@ permalink: /resume/
 
 ## Education
 
-`2018-2019`  
-   __Indian Aesthetics, Jnanapravaha, Mumbai__
+`2018-2019` __Indian Aesthetics__ Jnanapravaha, Mumbai, India
 
-`2016-2017`   
-    __M.A. Media and Communications, Goldsmiths College, University of London, UK__
+`2016-2017` __M.A. Media and Communications__ Goldsmiths College, University of London, UK
 
 `2012-2013`
-   __PG Diploma in Mass Communication__
+   __PGD in Mass Communication__
      Indian Institute of Mass Communication, New Delhi, India
 
 `2009-2012`
