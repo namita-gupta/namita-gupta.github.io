@@ -8,7 +8,7 @@ categories: Aesthetics Indian
 ---
 
 ![Tux, the Linux mascot](/images/test.png)
-![VIDEO](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"}
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/SP8jVnGYKHA/0.jpg)](http://www.youtube.com/watch?v=SP8jVnGYKHA "Video Title")
 
 ## Abstract
 
