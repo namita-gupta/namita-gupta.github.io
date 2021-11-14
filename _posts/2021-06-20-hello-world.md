@@ -7,8 +7,13 @@ image:      /images/test.png
 categories: Aesthetics Indian 
 ---
 
-![Tux, the Linux mascot](/images/test.png)
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/SP8jVnGYKHA/0.jpg)](http://www.youtube.com/watch?v=SP8jVnGYKHA "Video Title")
+<!-- ![Tux, the Linux mascot](/images/test.png) -->
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/SP8jVnGYKHA" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ## Abstract
 
