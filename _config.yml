@@ -21,8 +21,8 @@ bing_verification:
 ######################################
 ## Optional features                ##
 ######################################
-animated:             false
-show_related_posts:   false
+animated:             true
+show_related_posts:   true
 show_post_footers:    True
 show_social_icons:    True
 ajaxify_contact_form: false

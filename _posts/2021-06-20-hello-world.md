@@ -2,9 +2,12 @@
 layout:     post
 title:      Hello world
 date:       2021-06-20
-summary:    :lol
+summary:    lol
+image:      /images/test.png
 categories: Aesthetics Indian 
 ---
+
+![Tux, the Linux mascot](/images/test.png)
 
 ## Abstract
 

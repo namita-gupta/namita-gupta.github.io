@@ -18,6 +18,9 @@ tags: home
               {{ post.excerpt }}
             {% endif %}
           </p>
+          {% if post.image %}
+            <img class="post-image" src="{{ post.image }}" width="500" height="600">
+          {% endif %}
         </div>
       {% endfor %}
     </div>
