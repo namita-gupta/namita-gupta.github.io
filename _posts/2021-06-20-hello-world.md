@@ -2,8 +2,8 @@
 layout:     post
 title:      Hello world
 date:       2021-06-20
-summary:    lol
-image:      /images/test.png
+summary:    Test
+image:      
 categories: Aesthetics Indian 
 ---
 

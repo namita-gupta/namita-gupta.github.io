@@ -3,7 +3,7 @@ layout:     post
 title:      Whose nation is it anyway?
 date:       2018-01-14
 summary:    An exploration of national and gender identities represented in recent Indian cinema (2012-2017) in the context of rising Hindu Nationalism
-image:      /images/headshot.jpg
+image:      
 categories: Indian cinema nationalism
 ---
 
