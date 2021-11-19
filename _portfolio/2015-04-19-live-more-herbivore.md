@@ -1,16 +1,16 @@
 ---
 layout: post-wide
 hero-bg-color: "#AFFCC9"
-uid: live-more-herbivore
+uid: Photograph
 title:  "Personal Logo Concept"
-worktype: "Design"
+worktype: "Photograph"
 date:   2015-04-19 15:35:01
 categories: project
 progress: 100
 ---
 
 <p>
-	Some vegan friends of mine were going to start a vegan health blog that centred around evidence-based health and fitness. They asked me to design a logo and header for it and this is what I produced.
+	Photos
 </p>
 
 <p class="meta">
