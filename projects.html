@@ -8,7 +8,37 @@ js:
 - js/util_buttons.js
 ---
 
-<div id="display-projects"></div>
+<!-- <div id="display-projects"></div> -->
+
+{% assign posts_count = paginator.posts | size %}
+
+<div class="home">
+  {% if posts_count > 0 %}
+    <div class="posts">
+      {% for post in paginator.posts %}
+        <div class="post py3">
+          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+          <p class="post-summary">
+            {% if post.summary %}
+              {{ post.summary }}
+            {% else %}
+              {{ post.excerpt }}
+            {% endif %}
+          </p>
+          {% if post.image %}
+            <img class="post-image" src="{{ post.image }}" width="500" height="600">
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+
+    {% include pagination.html %}
+  {% else %}
+    <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
+  {% endif %}
+</div>
+
 
 <div class="circle-button">
       <div class="top-circle" data-sr-id="80" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; ">
@@ -23,8 +53,8 @@ js:
 {% endfor %}
 
 <script src="https://cdn.jsdelivr.net/emojione/3.0.3/lib/js/emojione.min.js"></script>
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   $(function() {
     $("#display-projects").getRepos("thundergolfer"); /* Add your github username. */
   });
-</script>
+</script> -->
