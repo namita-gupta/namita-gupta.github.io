@@ -6,12 +6,10 @@ permalink: /projects/
 js:
 - js/util_buttons.js
 ---
-
-<!-- <div id="display-projects"></div> -->
-
 {% assign posts_count = paginator.posts | size %}
 
 <div class="projects">
+  <p>posts_count</p>
   {% if posts_count > 0 %}
     <div class="posts">
       {% for post in paginator.posts %}
