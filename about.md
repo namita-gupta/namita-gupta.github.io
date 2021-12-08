@@ -1,6 +1,7 @@
 ---
 title: About Me
 permalink: "/about/"
+published: false
 tags: about
 flicker: true
 headshot: "/images/headshot.jpg"
