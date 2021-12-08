@@ -1,6 +1,6 @@
 ---
 title: Readme
-date: 2021-12-08 16:36:59.423000000 Z
+date: 2021-12-08 16:36:59 Z
 ---
 
 # The Drafts Section
