@@ -1,11 +1,12 @@
 ---
+title: Web Design
+date: 2015-04-19 15:35:01 Z
+categories:
+- project
 layout: post-wide
 hero-bg-color: "#fff"
 uid: web-design
-title:  "Web Design"
-worktype: "Web Design"
-date:   2015-04-19 15:35:01
-categories: project
+worktype: Web Design
 ---
 
 <p>

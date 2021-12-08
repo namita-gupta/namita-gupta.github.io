@@ -1,11 +1,13 @@
 ---
+title: Hyde Electronic Branding
+date: 2015-07-10 15:35:01 Z
+categories:
+- project
+- sound
 layout: post-wide
 hero-bg-color: "#fff"
 uid: hyde-electronic
-title:  "Hyde Electronic Branding"
-worktype: "Design & Branding"
-date:   2015-07-10 15:35:01
-categories: project sound
+worktype: Design & Branding
 ---
 
 <p>

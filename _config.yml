@@ -1,80 +1,57 @@
-######################################
-## Site settings                    ##
-######################################
-title:       Namita Gupta
-email:       namitagupta.red@gmail.com
-author:      Namita Gupta
-description: "Portfolio-Namita Gupta"
-baseurl:     "https://namita-gupta.github.io/"
-url:         "https://namita-gupta.github.io/"
+---
+title: Namita Gupta
+timezone: UTC
+collections:
+  portfolio:
+    title: Portfolio
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: namitagupta.red@gmail.com
+author: Namita Gupta
+description: Portfolio-Namita Gupta
+baseurl: https://namita-gupta.github.io/
+url: https://namita-gupta.github.io/
 date_format: "%b %-d, %Y"
-
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
-google_analytics:
-google_tag_manager:
-# Bing services
-bing_verification:
-
-######################################
-## Optional features                ##
-######################################
-animated:             true
-show_related_posts:   true
-show_post_footers:    True
-show_social_icons:    True
+google_verification: 
+google_analytics: 
+google_tag_manager: 
+bing_verification: 
+animated: true
+show_related_posts: true
+show_post_footers: true
+show_social_icons: true
 ajaxify_contact_form: false
 enable_mathjax: false
-extended_fonts: True
-enable_anchorjs: True
-
-######################################
-## Optional site sections           ##
-######################################
-show_talks_section:     false
+extended_fonts: true
+enable_anchorjs: true
+show_talks_section: false
 show_workshops_section: false
-
-######################################
-## Disqus post comments             ##
-## (leave blank to disable Disqus)  ##
-######################################
 disqus_shortname: 
-
-##########################################################################
-## Facebook Comments plugin                                             ##
-## (leave blank to disable Facebook Comments, otherwise set it to true) ##
-##########################################################################
-facebook_comments:
-facebook_appid:
+facebook_comments: 
+facebook_appid: 
 facebook_comments_number: 10
-
-###################################
-## Social icons                  ##
-###################################
-github_username:
-bitbucket_username:
-stackoverflow_id:
+github_username: 
+bitbucket_username: 
+stackoverflow_id: 
 twitter_username: greyflak
-skype_username:
+skype_username: 
 instagram: greyflak_
-soundcloud:
+soundcloud: 
 linkedin_username: namita-gupta-
-angellist_username:
+angellist_username: 
 medium_id: greyflak
 vimeo_id: https://vimeo.com/user124425590
-bitcoin_url:
-paypal_url:
-flattr_button:
-
-###################################
-## Post sharing icons            ##
-###################################
-show_sharing_icons: True
-# Change to 'true' to enable individual icons
-share_facebook: True
-share_twitter: True
+bitcoin_url: 
+paypal_url: 
+flattr_button: 
+show_sharing_icons: true
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
@@ -82,49 +59,41 @@ share_tumblr: false
 share_reddit: false
 share_stumbleupon: false
 share_hackernews: false
-
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: Newer
+    older: Older
   share_buttons:
-    text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
+    text: Share this post!
+    facebook: Share on Facebook
+    twitter: Share on Twitter
+    googleplus: Share on Google+
+    linkedin: Share on LinkedIn
+    digg: Share on Digg
+    tumblr: Share on Tumblr
+    reddit: Share on Reddit
+    stumbleupon: Share on StumbleUpon
+    hackernews: Share on Hacker News
   post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
+    updated: Updated
+    minute_read: minute read
+    related_posts: Related Posts
   index:
-    coming_soon: 'Coming soon...'
-  og_locale: 'en_US'
-
-############################################
-## Build settings                         ##
-############################################
-markdown:     kramdown
+    coming_soon: Coming soon...
+  og_locale: en_US
+markdown: kramdown
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data', 'footnotes']
-permalink:    pretty
-paginate:     6
+  extensions:
+  - smart
+  - tables
+  - with_toc_data
+  - footnotes
+permalink: pretty
+paginate: 6
 sass:
   compressed: true
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
-exclude: [vendor]
-
-#################################################
-## Collections (for 'Design' section of site)  ##
-#################################################
-collections:
-  portfolio:
-    output: true
+- jekyll-paginate
+- jekyll-sitemap
+exclude:
+- vendor

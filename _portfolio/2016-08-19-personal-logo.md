@@ -1,11 +1,12 @@
 ---
+title: Personal Logo Concept
+date: 2013-09-02 15:35:01 Z
+categories:
+- project
 layout: post-wide
 hero-bg-color: "#000"
 uid: personal-logo
-title:  "Personal Logo Concept"
-worktype: "Design"
-date:   2013-09-02 15:35:01
-categories: project
+worktype: Design
 progress: 90
 ---
 

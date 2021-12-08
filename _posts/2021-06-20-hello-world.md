@@ -1,10 +1,12 @@
 ---
-layout:     post
-title:      Hello world
-date:       2021-06-20
-summary:    Test
-image:      
-categories: Aesthetics Indian 
+title: Hello world
+date: 2021-06-20 00:00:00 Z
+categories:
+- Aesthetics
+- Indian
+layout: post
+summary: Test
+image: 
 ---
 
 <!-- ![Tux, the Linux mascot](/images/test.png) -->

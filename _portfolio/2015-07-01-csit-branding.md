@@ -1,11 +1,12 @@
 ---
+title: CSIT Branding and Logo
+date: 2015-04-19 15:35:01 Z
+categories:
+- project
 layout: post-wide
 hero-bg-color: "#212121"
 uid: csit-branding
-title:  "CSIT Branding and Logo"
-worktype: "Design & Branding"
-date:   2015-04-19 15:35:01
-categories: project
+worktype: Design & Branding
 progress: 100
 ---
 

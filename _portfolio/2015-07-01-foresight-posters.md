@@ -1,11 +1,13 @@
 ---
+title: Foresight Promo Posters
+date: 2015-07-01 15:35:01 Z
+categories:
+- project
+- design
 layout: post-wide
 hero-bg-color: "#212121"
 uid: foresight-posters
-title:  "Foresight Promo Posters"
-worktype: "Visual Communication"
-date:   2015-07-01 15:35:01
-categories: project design
+worktype: Visual Communication
 ---
 
 <p>
