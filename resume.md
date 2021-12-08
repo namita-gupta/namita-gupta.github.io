@@ -37,7 +37,7 @@ permalink: /resume/
 
 
 
-## Technical
+## Publications
 
 
 
